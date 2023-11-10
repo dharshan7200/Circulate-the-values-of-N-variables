@@ -29,7 +29,7 @@ a=eval(input())
 n=int(input())
 ```
 ## Output:
-![OUTPUT](/Circulate-the-values-of-N-variables/circulate.png)
+![OUTPUT](/circulate.png)
 
 ## Result:
 The Circulate-the-values-of-N-variables is succeed.
